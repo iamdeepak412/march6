@@ -1,0 +1,8 @@
+spacy==2.3.5
+pyresparser==1.0.7
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
+boto3==1.34.56
+python-dotenv==1.0.1
+requests==2.26.0
+Flask==2.0.1
+Flasgger==0.9.7.1
